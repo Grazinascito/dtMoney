@@ -12,7 +12,9 @@ export const Container = styled.div`
       font-weight: 400;
       color: var(--text-body);
       line-height: 1.5rem;
-      border: 1px solid red;
+     
+      padding-left: 2rem;
+      
     }
 
     td {
